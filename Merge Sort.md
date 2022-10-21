@@ -15,3 +15,5 @@ Bölme işlemlerinden sonra diziyi tekrar ilk haline gelene kadar toplayarak ile
 |:----------------------------------------------- |- |- |- |- |- |- |- |- |- |- |- |- |
 |2.Aşama |  |  |11|16|21|  |  |8 |12|22|  |  |
 |Son adım.     | | | |8 |11|12|16|21|22| | | |
+### _2. Big-O gösterimini yazınız._
+O(n*(logn)) --> O(6*(log6)) olacaktır.
