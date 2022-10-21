@@ -10,7 +10,7 @@
 [2,6,16,18,22,27] istenen sıralama bulunduğundan yer değiştirilmedi.
 
 2. Big-O gösterimini yazınız.
-    O(n^2)
+  O(n^2)
 
 3. Time Complexity
 Average Case:Aradığımız sayının ortada olması
