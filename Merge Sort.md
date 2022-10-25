@@ -9,7 +9,7 @@ Diziyi ikili hallerde tek tek bölerek tüm sayılar yalnız kalana kadar devam 
 |Tekrar ikiye bölerek devam ediyoruz.   |  16| 21  | 11 |  |  |8 |  |12 | 22|  |
 |Tek eleman kalana kadar bir kez daha bölüyoruz.  |  |16|21|  |11|  |  |8 |  |12|22|  |
 |                                                 |16|  |21|  |11|  |  |8 |  |12|  |22|
-
+----------
 Bölme işlemlerinden sonra diziyi tekrar ilk haline gelene kadar toplayarak ilerliyoruz.
 | 1.Aşama  |  |16|21|  |11|  |  |8 |  |12|22|  |
 |:----------------------------------------------- |- |- |- |- |- |- |- |- |- |- |- |- |
